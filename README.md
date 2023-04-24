@@ -1,1 +1,4 @@
-# exercicios-trybe-fundamentosA partir de agora, lembre-se de deixar tudo organizado. Pois começará fazer exercicios todos os dias, e terá que dar muitos commit's, então não se esqueça de ser objetivo e claro. E ORGANIZADO.
+
+A partir de agora, lembre-se de deixar tudo organizado. 
+Pois começará fazer exercicios todos os dias.
+E terá que dar muitos commit's, então não se esqueça de ser objetivo, claro e organizado!
